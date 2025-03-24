@@ -1,4 +1,7 @@
 package elaborazioneCSV;
 
-public class RecordAggiunta {
+import java.util.Random;
+
+public class RecordAggiunta extends Record{
+
 }
